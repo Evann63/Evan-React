@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
-import igIcon from "./assets/ig.svg";
-import waIcon from "./assets/wa.svg";
-import fbIcon from "./assets/fb.svg";
+import igIcon from "../assets/ig.svg";
+import waIcon from "../assets/wa.svg";
+import fbIcon from "../assets/fb.svg";
 
 export default function Navbar() {
   return (

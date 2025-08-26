@@ -1,4 +1,4 @@
-function Home() {
+export default function Home() {
   return (
     <section className="hero" id="home">
       <div className="hero-text">
@@ -9,5 +9,3 @@ function Home() {
     </section>
   );
 }
-
-export default Home
